@@ -1,0 +1,8 @@
+
+path: D:\pycode\M3054\Safety Helmet\hardhat_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 2
+names: ['Hardhat', 'NO-Hardhat']
