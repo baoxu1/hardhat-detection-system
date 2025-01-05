@@ -316,7 +316,7 @@ python train.py --data dataset.yaml --cfg yolov8n.yaml --epochs 30 --batch-size 
 
 - 作者：[Xu Bao]
 - 邮箱：[2528628005@qq.com]
-- 项目地址：[https://github.com/xubao123/hardhat-detection-system]
+- 项目地址：[[https://github.com/xubao123/hardhat-detection-system](https://github.com/baoxu1/hardhat-detection-system)]
 
 ## 致谢
 
