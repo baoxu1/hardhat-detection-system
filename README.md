@@ -29,8 +29,8 @@ numpy>=1.21.0
 ## 安装说明
 
 1. 克隆项目
-```bash
-git clone https://github.com/your-username/hardhat-detection-system.git
+```
+git clone https://github.com/baoxu1/hardhat-detection-system.git
 cd hardhat-detection-system
 ```
 
