@@ -151,13 +151,12 @@ python train.py --data dataset.yaml --cfg yolov8n.yaml --epochs 30 --batch-size 
 
 ## 联系方式
 
-- 作者：[Your Name]
-- 邮箱：[your.email@example.com]
-- 项目地址：[GitHub Repository URL]
+- 作者：[Xu Bao]
+- 邮箱：[2528628005@qq.com]
+- 项目地址：[https://github.com/xubao123/hardhat-detection-system]
 
 ## 致谢
 
 - YOLOv8 开发团队
 - PyQt5 社区
 - 所有项目贡献者
-```
