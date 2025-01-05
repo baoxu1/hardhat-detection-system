@@ -296,13 +296,6 @@ python train.py --data dataset.yaml --cfg yolov8n.yaml --epochs 30 --batch-size 
    - 检查模型更新
    - 维护系统日志
 
-## 贡献指南
-
-欢迎提交 Issue 和 Pull Request。在提交 PR 前，请确保：
-
-1. 代码符合 PEP 8 规范
-2. 添加必要的注释和文档
-3. 通过所有测试用例
 
 
 ## 联系方式
